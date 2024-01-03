@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvora&show_icons=true&theme=one_dark_pro)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Silvora&repo=show_owner)
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Silvora&repo=show_owner)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvora)
