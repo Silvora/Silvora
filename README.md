@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Silvora&repo=show_owner)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvora)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvora&layout=compact)
